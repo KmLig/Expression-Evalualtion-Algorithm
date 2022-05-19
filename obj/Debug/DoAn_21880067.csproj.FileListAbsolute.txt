@@ -1,0 +1,24 @@
+D:\CN-CNTT-FS\HK2\Cấu trúc dữ liệu và giải thuật\Practice\DoAn_21880067\bin\Debug\DoAn_21880067.exe.config
+D:\CN-CNTT-FS\HK2\Cấu trúc dữ liệu và giải thuật\Practice\DoAn_21880067\bin\Debug\DoAn_21880067.exe
+D:\CN-CNTT-FS\HK2\Cấu trúc dữ liệu và giải thuật\Practice\DoAn_21880067\bin\Debug\DoAn_21880067.pdb
+D:\CN-CNTT-FS\HK2\Cấu trúc dữ liệu và giải thuật\Practice\DoAn_21880067\obj\Debug\DoAn_21880067.csproj.SuggestedBindingRedirects.cache
+D:\CN-CNTT-FS\HK2\Cấu trúc dữ liệu và giải thuật\Practice\DoAn_21880067\obj\Debug\DoAn_21880067.csproj.CoreCompileInputs.cache
+D:\CN-CNTT-FS\HK2\Cấu trúc dữ liệu và giải thuật\Practice\DoAn_21880067\obj\Debug\DoAn_21880067.exe
+D:\CN-CNTT-FS\HK2\Cấu trúc dữ liệu và giải thuật\Practice\DoAn_21880067\obj\Debug\DoAn_21880067.pdb
+D:\CN-CNTT-FS\HK2\Cấu trúc dữ liệu và giải thuật\Practice\DoAn_21880067\obj\Debug\DoAn_21880067.csproj.AssemblyReference.cache
+D:\CN-CNTT-FS\HK2\Cấu trúc dữ liệu và giải thuật\Đồ án\21880067\DoAn_21880067\bin\Debug\DoAn_21880067.exe.config
+D:\CN-CNTT-FS\HK2\Cấu trúc dữ liệu và giải thuật\Đồ án\21880067\DoAn_21880067\bin\Debug\DoAn_21880067.exe
+D:\CN-CNTT-FS\HK2\Cấu trúc dữ liệu và giải thuật\Đồ án\21880067\DoAn_21880067\bin\Debug\DoAn_21880067.pdb
+D:\CN-CNTT-FS\HK2\Cấu trúc dữ liệu và giải thuật\Đồ án\21880067\DoAn_21880067\obj\Debug\DoAn_21880067.csproj.AssemblyReference.cache
+D:\CN-CNTT-FS\HK2\Cấu trúc dữ liệu và giải thuật\Đồ án\21880067\DoAn_21880067\obj\Debug\DoAn_21880067.csproj.SuggestedBindingRedirects.cache
+D:\CN-CNTT-FS\HK2\Cấu trúc dữ liệu và giải thuật\Đồ án\21880067\DoAn_21880067\obj\Debug\DoAn_21880067.csproj.CoreCompileInputs.cache
+D:\CN-CNTT-FS\HK2\Cấu trúc dữ liệu và giải thuật\Đồ án\21880067\DoAn_21880067\obj\Debug\DoAn_21880067.exe
+D:\CN-CNTT-FS\HK2\Cấu trúc dữ liệu và giải thuật\Đồ án\21880067\DoAn_21880067\obj\Debug\DoAn_21880067.pdb
+D:\CN-CNTT-FS\HK2\Cấu trúc dữ liệu và giải thuật\Đồ án\21880067\Source\bin\Debug\DoAn_21880067.exe.config
+D:\CN-CNTT-FS\HK2\Cấu trúc dữ liệu và giải thuật\Đồ án\21880067\Source\bin\Debug\DoAn_21880067.exe
+D:\CN-CNTT-FS\HK2\Cấu trúc dữ liệu và giải thuật\Đồ án\21880067\Source\bin\Debug\DoAn_21880067.pdb
+D:\CN-CNTT-FS\HK2\Cấu trúc dữ liệu và giải thuật\Đồ án\21880067\Source\obj\Debug\DoAn_21880067.csproj.AssemblyReference.cache
+D:\CN-CNTT-FS\HK2\Cấu trúc dữ liệu và giải thuật\Đồ án\21880067\Source\obj\Debug\DoAn_21880067.csproj.SuggestedBindingRedirects.cache
+D:\CN-CNTT-FS\HK2\Cấu trúc dữ liệu và giải thuật\Đồ án\21880067\Source\obj\Debug\DoAn_21880067.csproj.CoreCompileInputs.cache
+D:\CN-CNTT-FS\HK2\Cấu trúc dữ liệu và giải thuật\Đồ án\21880067\Source\obj\Debug\DoAn_21880067.exe
+D:\CN-CNTT-FS\HK2\Cấu trúc dữ liệu và giải thuật\Đồ án\21880067\Source\obj\Debug\DoAn_21880067.pdb
